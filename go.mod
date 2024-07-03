@@ -1,6 +1,6 @@
 module awesomeProject
 
-go 1.22
+go 1.21
 
 require (
 	github.com/bytedance/sonic v1.11.9 // indirect
